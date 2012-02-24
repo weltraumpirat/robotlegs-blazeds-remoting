@@ -1,3 +1,6 @@
 == BlazeDS extension and HelloWorld example for RobotLegs2 ==
 
-This is the source code to my extensive tutorial at http://tobiasgoeschel.com/2012/blaze1/ - if you're interested, check it out!
+This is the source code to the ActionScript layer of my extensive tutorial on BlazeDS and RobotLegs.  It starts at http://tobiasgoeschel.com/2012/blaze1/, which handles creating a BlazeDS project via Maven.  
+The part relevant to the source code here begins at http://tobiasgoeschel.com/2012/blaze3/, but you'll only get the whole picture if you've completed parts 1 and 2. 
+
+If you're interested, check it out!
